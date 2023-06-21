@@ -1,0 +1,11 @@
+
+To make sure that your app version updated and match your features
+
+
+app state:
+
+[updated] no need to update
+[new_version] optional update
+[must_update] should enforce user to update
+[maintenance] some error's happening right now
+
